@@ -1,0 +1,67 @@
+.toop {
+  width : 600px;
+  background :  #354b59;
+  position: fixed;
+  right:10px;
+  padding-bottom: 1px;
+  
+}
+ul {
+  background :#354b59;
+  float:left;
+  width: 100%;
+  padding:0;
+  margin:0;}
+ul a {color :black;
+      text-decoration: none;}
+.menu {
+  display:inline;
+  width: 100px;
+  font-size:20px;
+  background:white;
+  padding:3px;
+  margin: 4px;
+  border-radius: 8px;
+  
+}
+body {
+  width : 100%;}
+h1 {
+  padding:4px;
+  background: #f18d35;
+}
+h2 {color:white;
+    background :#354b59;
+  float:left;
+  width: 100%;
+  padding:0;
+  margin:0;
+}
+
+.content {
+  background: black;
+  color:white;
+}
+.title {
+  margin-left : 0px;
+  padding-left : 4px;
+  font-size : larger;
+    font-size:40px;
+  padding-bottom : 100px;
+
+}
+.description {
+  background: black;
+  margin-left : 40px;
+  margin-right: 40px;
+  border-radius:20px;
+  padding: 10px;
+  font-size:20px;
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-flow: row-wrap; /* Safari 6.1+ */
+    display: flex;
+    flex-wrap: wrap;
+}
+.txtbox {width:500px;
+padding:10px}
+/*.imge {width:200px;}
